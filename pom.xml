@@ -2,9 +2,15 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.ait.module.java</groupId>
 	<artifactId>unit-test-module</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>AIT Java Unit Test Module</name>
 	<description>Module for AIT Java Unit Test</description>
+
+	<properties>
+		<java.version>1.8</java.version>
+		<maven.compiler.target>1.8</maven.compiler.target>
+		<maven.compiler.source>1.8</maven.compiler.source>
+	</properties>
 
 	<dependencies>
 		<dependency>
