@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.ait.module.java</groupId>
 	<artifactId>unit-test-module</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>AIT Java Unit Test Module</name>
 	<description>Module for AIT Java Unit Test</description>
 
@@ -80,5 +80,13 @@
 			<version>2.14.1</version>
 			<scope>compile</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-jpa -->
+		<dependency>
+			<groupId>org.springframework.data</groupId>
+			<artifactId>spring-data-jpa</artifactId>
+			<version>2.7.2</version>
+			
+		</dependency>
+
 	</dependencies>
 </project>
