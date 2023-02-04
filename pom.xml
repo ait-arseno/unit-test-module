@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.ait.module.java</groupId>
 	<artifactId>unit-test-module</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<name>AIT Java Unit Test Module</name>
 	<description>Module for AIT Java Unit Test</description>
 
